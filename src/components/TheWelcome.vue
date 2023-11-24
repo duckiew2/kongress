@@ -13,7 +13,7 @@ import FoodVariantIcon from 'vue-material-design-icons/FoodVariant.vue';
     </template>
     <template #heading>Vortragsfolien</template>
     <p>Der KNF stellt zu den meisten Vorträgen zeitnah die jeweiligen
-    Foliensätze zum Download bereit.</p>
+    Foliensätze im PDF-Format zum Download bereit.</p>
   </WelcomeItem>
 
   <WelcomeItem>
