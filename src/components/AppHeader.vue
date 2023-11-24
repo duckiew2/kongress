@@ -10,6 +10,7 @@
       </ul>
     </nav>
   </header>
+  <br />
 </template>
 
 <style lang="scss">
